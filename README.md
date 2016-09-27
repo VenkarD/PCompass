@@ -1,5 +1,5 @@
 # PCompass
-I think only Russian:)
+I speak only Russian:)
 Компасс разрабатывается для авиасимулятора
 Пока умеет только крутиться на заданный угол...
 Мой сайт:sechinski.ru
